@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="file_name">
+        <item>Firefox</item>
+        <item>Instagram</item>
+        <item>LG</item>
+        <item>Motorola</item>
+        <item>WhatsApp</item>
+        <item>Android</item>
+        <item>Apple</item>
+        <item>Assassins Creed</item>
+        <item>Audi</item>
+        <item>Cadillac</item>
+        <item>Chanel</item>
+        <item>Chevrolet</item>
+        <item>Citroen</item>
+        <item>EA</item>
+        <item>Facebook</item>
+        <item>General Electric</item>
+        <item>Heineken</item>
+        <item>Hewlett Packard</item>
+        <item>Infiniti</item>
+        <item>Jaguar</item>
+        <item>John Deere</item>
+        <item>Lexus</item>
+        <item>Louis Vuitton</item>
+        <item>Mazda</item>
+        <item>McDonalds</item>
+        <item>Mercedes Benz</item>
+        <item>Microsoft</item>
+        <item>Mitsubishi</item>
+        <item>Pepsi</item>
+        <item>Pinterest</item>
+        <item>Play Station</item>
+        <item>Porche</item>
+        <item>Red Bull</item>
+        <item>Rolex</item>
+        <item>Snapchat</item>
+        <item>Starbucks</item>
+        <item>Subaru</item>
+        <item>Suzuki</item>
+        <item>Tesla</item>
+        <item>Toyota</item>
+        <item>Twitter</item>
+        <item>Ubisoft</item>
+        <item>Volkswagen</item>
+        <item>World of Warcraft</item>
+        <item>Xbox</item>
+        <item>Youtube</item>
+    </array>
+    <array name="image">
+        <item>@drawable/firefox</item>
+        <item>@drawable/instagram</item>
+        <item>@drawable/lg</item>
+        <item>@drawable/motorola</item>
+        <item>@drawable/whatsapp</item>
+        <item>@drawable/android</item>
+        <item>@drawable/apple</item>
+        <item>@drawable/assassin_s_creed</item>
+        <item>@drawable/audi</item>
+        <item>@drawable/cadillac</item>
+        <item>@drawable/chanel</item>
+        <item>@drawable/chevrolet</item>
+        <item>@drawable/citroen</item>
+        <item>@drawable/ea</item>
+        <item>@drawable/facebook</item>
+        <item>@drawable/general_electric</item>
+        <item>@drawable/heineken</item>
+        <item>@drawable/hewlett_packard</item>
+        <item>@drawable/infiniti</item>
+        <item>@drawable/jaguar</item>
+        <item>@drawable/jhon_deere</item>
+        <item>@drawable/lexus</item>
+        <item>@drawable/louis_vuitton</item>
+        <item>@drawable/mazda</item>
+        <item>@drawable/mc_donald_s</item>
+        <item>@drawable/mercedes_benz</item>
+        <item>@drawable/microsoft</item>
+        <item>@drawable/mitsubishi</item>
+        <item>@drawable/pepsi</item>
+        <item>@drawable/pinterest</item>
+        <item>@drawable/play_station</item>
+        <item>@drawable/porsche</item>
+        <item>@drawable/red_bull</item>
+        <item>@drawable/rolex</item>
+        <item>@drawable/snapcha</item>
+        <item>@drawable/starbucks</item>
+        <item>@drawable/subaru</item>
+        <item>@drawable/suzuki</item>
+        <item>@drawable/tesla</item>
+        <item>@drawable/toyota</item>
+        <item>@drawable/twitter</item>
+        <item>@drawable/ubisoft</item>
+        <item>@drawable/volkswagen</item>
+        <item>@drawable/world_of_warcraft</item>
+        <item>@drawable/xbox</item>
+        <item>@drawable/youtube</item>
+    </array>
+</resources>
